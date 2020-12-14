@@ -27,6 +27,13 @@
 // echo $_SERVER['HTTP_USER_AGENT'];
 
 
+     // 2.1
+
+     // echo $_POST['name'];
+     // echo "<br>";
+     // echo $_POST['email'];
+
+
 
 
 
